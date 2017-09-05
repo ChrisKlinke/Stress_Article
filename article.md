@@ -1,6 +1,7 @@
 # Report of some awesome research
 
 ## Abstract
+Winter is coming!
 
 ## Introduction
 

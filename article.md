@@ -3,9 +3,6 @@
 ## Abstract
 
 ## Introduction
-Some people say they are very stressed. So important researchers try to 
-analyze the most basic mechanisms of the individual stress axis. So does 
-Christopher. Makes that Christopher an important researcher?
 
 ### Hyothesis
 
@@ -24,7 +21,6 @@ Christopher. Makes that Christopher an important researcher?
 ## Discussion
 
 ### Conclusion
-Christopher ist kein richtiger Wissenschaftler ;)
 
 ## References
 

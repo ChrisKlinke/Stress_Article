@@ -1,9 +1,11 @@
 # Report of some awesome research
 
 ## Abstract
-Winter is coming!
 
 ## Introduction
+Some people say they are very stressed. So important researchers try to 
+analyze the most basic mechanisms of the individual stress axis. So does 
+Christopher. Makes that Christopher an important researcher?
 
 ### Hyothesis
 
@@ -22,6 +24,7 @@ Winter is coming!
 ## Discussion
 
 ### Conclusion
+Christopher ist kein richtiger Wissenschaftler ;)
 
 ## References
 
